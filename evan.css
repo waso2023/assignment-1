@@ -1,0 +1,15 @@
+body{
+    background-image: url("jeff/W.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 90%;
+    background-color: darkgray;
+}
+p{
+    color: aliceblue;
+}
+h1{
+    color: aliceblue;
+}
+
+
